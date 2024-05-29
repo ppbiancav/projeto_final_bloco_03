@@ -1,10 +1,10 @@
 import './App.css';
-import Home from './paginas/home/Home';
+import ListarCategorias from './components/categorias/listarcategorias/ListarCategorias';
 
 
 function App() {
   return (
-    <><Home/></>
+    <><ListarCategorias/></>
    
   )
 }
